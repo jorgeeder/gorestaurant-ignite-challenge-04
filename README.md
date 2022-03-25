@@ -26,19 +26,29 @@
 
 ## About The Project
 
-
+Challenge: you must migrate an application from Javascript and Class Components to Typescript and Function Components
 
 ## Features
 
-
+- Add new dish to menu
+- Remove a dish from the menu
+- Edit a menu dish
+- Set a menu item as available or unavailable 
 
 ## Technologies
 
-
+-   **[React](https://reactjs.org/)**
+-   **[Typescript](https://www.typescriptlang.org/)**
+-   **[Babel](https://babeljs.io/)**
+-   **[Webpack](https://webpack.js.org/)**
+-   **[Axios](https://github.com/axios/axios)**
+-   **[react-icons](https://react-icons.github.io/react-icons/)**
+-   **[styled-components](https://styled-components.com/)**
+-   **[json-server](https://github.com/typicode/json-server)**
 
 ## Application in Use
 
-
+![preview](./src/assets/preview.gif)
 
 ## Requirement
 
